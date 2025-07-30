@@ -5,4 +5,6 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://cjGO.github.io',
                 'git_url': 'https://github.com/cjGO/gxep',
                 'lib_path': 'gxep'},
-  'syms': {'gxep.core': {'gxep.core.foo': ('core.html#foo', 'gxep/core.py')}}}
+  'syms': { 'gxep.config': {},
+            'gxep.data': {'gxep.data.load_data': ('data.html#load_data', 'gxep/data.py')},
+            'gxep.features': {'gxep.features.calculate_grm_vanraden': ('features.html#calculate_grm_vanraden', 'gxep/features.py')}}}
