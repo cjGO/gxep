@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "gxep"
+  site-url: "https://cjGO.github.io/gxep"
+  description: "gxe p"
+  repo-branch: main
+  repo-url: "https://github.com/cjGO/gxep"
